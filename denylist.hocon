@@ -1,5 +1,6 @@
+// This is a hocon file.
 {
-	"234": "miheich",
+	"234": "miheich",  // It supports comments!
 	"912": "nslz",
 	"1199": "Balza",
 	"1204": "Yari",
